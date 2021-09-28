@@ -4,6 +4,8 @@
 /storage/*.key
 /storage/clockwork
 /vendor
+.env
+.env.backup
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
